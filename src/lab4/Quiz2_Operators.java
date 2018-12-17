@@ -21,7 +21,6 @@ public class Quiz2_Operators {
         System.out.println("ผลหาร"+m);
 
 
-
     }//main
 
     private static int divt(int w, int h) {
