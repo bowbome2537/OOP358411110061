@@ -19,8 +19,10 @@ public class ex3 {
         System.out.println(token);
         System.out.println(token.countTokens());//นับจำนวนคำโดยดูจากการเคาะ
 
-        while (token.hasMoreElements()){
+        while (token.hasMoreElements()) {
             System.out.println(token.nextToken());//แยกคำแต่ละบรรทัด
         }
-    }//main
-}//class
+
+    }
+    }
+
