@@ -22,7 +22,5 @@ public class ex3 {
         while (token.hasMoreElements()){
             System.out.println(token.nextToken());//แยกคำแต่ละบรรทัด
         }
-
-
-    }
-}
+    }//main
+}//class
